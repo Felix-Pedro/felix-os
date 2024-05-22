@@ -28,7 +28,7 @@ modules:
       - nmap
       - bat
       - cargo
-      - exa
+      - eza
       - netbird
       - libappindicator-gtk3
       - libappindicator
